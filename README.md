@@ -1,4 +1,4 @@
-# Fake Review Classification
+# Fake Product Review Detection
 
 ## Overview
 
